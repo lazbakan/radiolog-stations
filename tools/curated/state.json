@@ -1,88 +1,88 @@
 {
   "fails": {
     "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://dijimedya.radyotvonline.net/numberone": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://ssldyg2.radyotvonline.net/live/bestofyabanci.stream/chunklist.m3u8": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://radyo.yayin.com.tr:6321/": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://yayin.moralfm.com.tr:8000/moralfm": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://anadolu.liderhost.com.tr:10929/": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://radyo.duhnet.tv/ak_dtvh_slowturk": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://radyo.yayin.com.tr:4078/mp3": {
-      "days": 1,
-      "last": "2026-11-18"
-    },
-    "http://radyo.turkuradyo.net:4591/turkuradyo": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "http://yayin.liderhost.net:8028/;": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://ssl120.radyotelekom.com.tr/8678/stream": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://edge.taksimbilisim.com/radyo2000/bant1/icecast.audio": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://anadolu.liderhost.com.tr:10921/": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://megaradyoiskenderun.ozelip.com/8024/stream": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8": {
-      "days": 1,
-      "last": "2026-11-18"
+      "days": 2,
+      "last": "2026-11-19"
     },
     "https://radyo.ilef.net/stream": {
+      "days": 2,
+      "last": "2026-11-19"
+    },
+    "https://stream.radiotedu.com/cazz": {
       "days": 1,
-      "last": "2026-11-18"
+      "last": "2026-11-19"
     }
   },
   "replacements": {

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-18T18:20:13Z",
+ "updated": "2026-11-19T22:26:26Z",
  "stations": [
   {
    "name": "Süper FM",
@@ -24,7 +24,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "pop",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Power Türk",
@@ -256,7 +256,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "pop",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Best of Number 1",
@@ -264,7 +264,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "pop",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Baby Joy",
@@ -456,7 +456,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "rock",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Mood Rock",
@@ -464,7 +464,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "rock",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Türk Rock FM",
@@ -520,7 +520,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "haber",
-   "ok": true
+   "ok": false
   },
   {
    "name": "A Haber Radyo",
@@ -642,7 +642,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "dini",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Vav Radyo",
@@ -714,7 +714,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "dini",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Dost FM",
@@ -866,7 +866,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "klasik",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Powertürk Slow",
@@ -882,7 +882,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "slow",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Damar Türk FM",
@@ -1034,7 +1034,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "slow",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Ulusal Arabesk",
@@ -1530,7 +1530,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "chill",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Relax Home",
@@ -1610,7 +1610,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Kaçkar FM",
@@ -1618,7 +1618,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Rize Türk",
@@ -1642,7 +1642,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Radyo Trafik İstanbul",
@@ -1682,7 +1682,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Kayseri Gözde FM",
@@ -1882,7 +1882,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Radyo Yalova",
@@ -1906,7 +1906,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Radyo Gökçeada",
@@ -2052,7 +2052,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": true
+   "ok": false
   },
   {
    "name": "TRT FM",
@@ -2132,7 +2132,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Radyo ODTÜ",
