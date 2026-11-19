@@ -3,7 +3,7 @@
 RadioLog uygulamasının Türkiye kategorilerindeki radyo listesi. Liste her gün
 GitHub Actions'ta denetlenir; uygulama sonucu en fazla 12 saatte bir indirir:
 
-    https://raw.githubusercontent.com/azasdestek/radiolog-stations/main/docs/curated.json
+    https://raw.githubusercontent.com/lazbakan/radiolog-stations/main/docs/curated.json
 
 | Dosya | Ne işe yarar |
 |---|---|
