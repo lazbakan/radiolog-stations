@@ -1,0 +1,2230 @@
+{
+ "version": 1,
+ "updated": "2026-11-18T18:20:13Z",
+ "stations": [
+  {
+   "name": "Süper FM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Metro FM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Power FM",
+   "url": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Power Türk",
+   "url": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Kral FM",
+   "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Kral Pop",
+   "url": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Radyo Fenomen",
+   "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Fenomen Türk",
+   "url": "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Fenomen Pop",
+   "url": "https://live.radyofenomen.com/fenomenpop/256/chunks.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Fenomen Karışık",
+   "url": "https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Fenomen Akustik",
+   "url": "https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Best FM",
+   "url": "https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Radyo Viva",
+   "url": "https://edge1.radyotvonline.net/shoutcast/play/radyoviva",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Show Radyo",
+   "url": "http://showradyo.radyotvonline.net/showradyoaac/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Alem FM",
+   "url": "https://turkmedya.radyotvonline.net/alemfmaac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Pal FM",
+   "url": "https://ssl4.radyotvonline.com/radyohome/palfmhome.stream_aac/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Virgin Radio Türkiye",
+   "url": "http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Joy Türk",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Radyo Mydonose",
+   "url": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Mydonose Türk",
+   "url": "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Süper 2",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "İstanbul FM",
+   "url": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Power Pop",
+   "url": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Power Love",
+   "url": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Power Plus",
+   "url": "https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Power Gold",
+   "url": "https://live.powerapp.com.tr/powergold/abr/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Powertürk Taptaze",
+   "url": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Radyo D",
+   "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Best Hit",
+   "url": "https://wowza3.radyotvonline.com/best/bestteen.stream/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Pop Home",
+   "url": "https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Pop Land",
+   "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Number One Türk",
+   "url": "https://dijimedya.radyotvonline.net/numberone",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Best of Number 1",
+   "url": "https://ssldyg2.radyotvonline.net/live/bestofyabanci.stream/chunklist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Baby Joy",
+   "url": "https://23623.live.streamtheworld.com/SC009_SO1AAC.aac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Yeni Pop",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Kiss Türk",
+   "url": "https://kiss.radyotvonline.net/kissturk",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Kiss Genç",
+   "url": "https://dijimedya.radyotvonline.net/gncradyo",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Kiss Gold Türk",
+   "url": "https://dijimedya.radyotvonline.net/goldturk",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Kiss Speed Up",
+   "url": "https://dijimedya.radyotvonline.net/speedup",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Hemdem Pop Radyo",
+   "url": "https://yayin.hemdemradyo.com/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Lig Radyo",
+   "url": "https://ligradyo.radyotvonline.net/ligradyo",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Ostim Radyo",
+   "url": "https://stream.netradyom.com/radio/8010/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Radio Line",
+   "url": "https://online.radioline.fm:8443/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Standart FM",
+   "url": "https://moondigitaledge.radyotvonline.net/standartfm/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Radio Light",
+   "url": "http://yayin.radiolight.net:8005/live",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Radio Glamorize",
+   "url": "https://live.radioglamorize.com/stream1",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Beste FM Mix",
+   "url": "https://yayin.radyomadyo.com:8002/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Hemdem Radyo",
+   "url": "http://yayin.hemdemradyo.com/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Oyunpiyat Radyo",
+   "url": "https://yayin.hostwin.net/8888/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Radio Mydonose",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE128AAC.aac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "pop",
+   "ok": true
+  },
+  {
+   "name": "Radyo Eksen",
+   "url": "https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "Rock FM",
+   "url": "https://rockfm.rockfm.com.tr:9450/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "Joy Türk Rock",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "Rock Station",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_STATION128AAC.aac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "Kafa Radyo",
+   "url": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "Garaj Radyo",
+   "url": "https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "The Rock Radio",
+   "url": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "Mood Rock",
+   "url": "https://radyo.yayin.com.tr:6321/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "Türk Rock FM",
+   "url": "https://yayin5.radyohizmeti.com/8090/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "RadioTEDU Rock",
+   "url": "https://stream.radiotedu.com/rock",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "Frigbo",
+   "url": "https://station.frigbo.com/listen/frigbo/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "Powertürk R&B Hip-Hop",
+   "url": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rock",
+   "ok": true
+  },
+  {
+   "name": "NTV Radyo",
+   "url": "http://ntvrdwmp.radyotvonline.com/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "CNN Türk Radyo",
+   "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "Habertürk Radyo",
+   "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "A Haber Radyo",
+   "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "A Para Radyo",
+   "url": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "TRT Radyo Haber",
+   "url": "https://trt.radyotvonline.net/trthaber",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "Bloomberg HT Radyo",
+   "url": "https://bloomberghtradyo.radyotvonline.net/bloomberghtradyo",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "TGRT FM",
+   "url": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "Radyo 24",
+   "url": "https://radyo24.radyotvonline.net/radyo24",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "TRT World Radyo",
+   "url": "https://radio-trtworld.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "ST Endüstri Radyo",
+   "url": "https://endustriradyo.radyotvonline.net/endustriradyo",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "haber",
+   "ok": true
+  },
+  {
+   "name": "Radyospor",
+   "url": "https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "spor",
+   "ok": true
+  },
+  {
+   "name": "A Spor Radyo",
+   "url": "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "spor",
+   "ok": true
+  },
+  {
+   "name": "Radyo Gol",
+   "url": "https://edge1.radyotvonline.net/shoutcast/play/radyogol",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "spor",
+   "favicon": "null",
+   "uuid": "87c44288-3030-4e9f-b5af-62fc254fa3f9",
+   "ok": true
+  },
+  {
+   "name": "Diyanet Radyo",
+   "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Diyanet Kur'an Radyo",
+   "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Akra FM",
+   "url": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Semerkand Radyo",
+   "url": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Vav Radyo",
+   "url": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Risalet Radyo",
+   "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Nur Radyo",
+   "url": "https://canli.hidayetradyolari.com/listen/radyo_nur/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "MPL Radyo",
+   "url": "https://canli.hidayetradyolari.com/listen/mpl_radyo/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Radyo Hidayet Çağı",
+   "url": "https://radio.mihr.com/radio/8000/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Radyo Hakkın Sesi",
+   "url": "https://radio.mihr.com/radio/8010/hakkinsesi",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Her An Kur'an",
+   "url": "https://radio.mihr.com/radio/8050/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Radyo 7",
+   "url": "http://46.20.3.250/;stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Moral FM",
+   "url": "https://yayin.moralfm.com.tr:8000/moralfm",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Dost FM",
+   "url": "http://yayin.dostfm.com:8920/;.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Lalegül FM",
+   "url": "https://icecast.netmedya.net/lalegulfm",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Erkam Radyo",
+   "url": "https://api-tv5.yayin.com.tr:8002/mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "İhya FM",
+   "url": "https://radyo.yayin.com.tr:2727/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Ribat FM",
+   "url": "http://yayin1.canliyayin.org:7010/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Mekke FM",
+   "url": "https://radyodinle.cansuyufm.com/17175/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Kur'an Radyo",
+   "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "Abdulbasit Abdussamed",
+   "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "TRT Radyo Arabi",
+   "url": "https://radio-trtarabi.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dini",
+   "ok": true
+  },
+  {
+   "name": "TRT Radyo 3",
+   "url": "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "Borusan Klasik",
+   "url": "http://23543.live.streamtheworld.com/BORUSAN_KLASIKAAC_SC",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "TRT Nağme",
+   "url": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "RadioTEDU Classic",
+   "url": "https://stream.radiotedu.com/classic",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "RadioTEDU Classic FLAC",
+   "url": "https://stream.radiotedu.com/classic-flac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "İTÜ Klasik",
+   "url": "http://160.75.86.29:8088/ituklasikmp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "Home Klasik",
+   "url": "https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "Classicland",
+   "url": "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "Pal Doğa",
+   "url": "http://shoutcast.radyogrup.com:1040/;",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "Klas Radyo",
+   "url": "https://anadolu.liderhost.com.tr:10929/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "klasik",
+   "ok": true
+  },
+  {
+   "name": "Powertürk Slow",
+   "url": "https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Slow Türk",
+   "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Damar Türk FM",
+   "url": "https://live.radyositesihazir.com:10997/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Arabeskin Merkezi FM",
+   "url": "http://canli.arabeskinmerkezi.com:9180/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "S1lhoutte Arabesk",
+   "url": "https://yayin.radyoarabesk.com.tr:8000/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Radyo Alaturka",
+   "url": "https://yayin.jumboserver.net:9100/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Pal Nostalji",
+   "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Aşk FM",
+   "url": "http://yayin.asymedya.com:8020/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Kalp FM",
+   "url": "https://yayin.kalpfm.com:8080/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Radyo 45'lik",
+   "url": "https://stream.radyo45lik.com:4545/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Baba Radyo",
+   "url": "https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Karma Türk Slow",
+   "url": "https://yayin.radyomadyo.com:8004/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Hayatmix Slow",
+   "url": "https://radyo.yayin.com.tr:4090/mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Best Slow",
+   "url": "https://hepsibest.radyotvonline.net/bestslow",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Radyo Duygusal",
+   "url": "https://radyoduygusal.kesintisizyayin.com:9596/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Gözyaşı FM",
+   "url": "http://yayin1.canliyayin.org:8700/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Kiss Slow",
+   "url": "https://radyo.slmbilisim.net/8004/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Kiss Türk Slow",
+   "url": "http://dijimedya.radyotvonline.net/turkslow",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "S1lhoutte Slow FM",
+   "url": "https://anadolu.liderhost.com.tr:10973/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Karma Türk",
+   "url": "https://yayin.radyomadyo.com:8006/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Hayatmix Arabesk",
+   "url": "https://radyo.yayin.com.tr:4078/mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Ulusal Arabesk",
+   "url": "https://radio.guventechnology.com/9334/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Dijital Slow",
+   "url": "http://anadolu.liderhost.com.tr:8076/radyo",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "S1lhoutte Ankara Havaları",
+   "url": "http://37.247.98.8/stream/30/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Efkar",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Melankolik Home",
+   "url": "http://37.247.98.8/stream/20/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Dream Türk",
+   "url": "https://radyo.duhnet.tv/dreamturk",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Romantik Ses Isparta",
+   "url": "https://radyo.romantikses.com/romantiksesispart/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Romantik Ses Sakarya",
+   "url": "https://radyo.romantikses.com/romantiksessakary/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Kalbe Dokunan Şarkılar",
+   "url": "https://live.sinirsizhost.com.tr/8058/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "DT Nostalji",
+   "url": "https://canli.dtnostalji.com.tr/9999/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "slow",
+   "ok": true
+  },
+  {
+   "name": "Kıyı Caz",
+   "url": "https://caz.radioca.st/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "jazz",
+   "ok": true
+  },
+  {
+   "name": "RadioTEDU Jazz",
+   "url": "https://stream.radiotedu.com/cazz",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "jazz",
+   "ok": true
+  },
+  {
+   "name": "RadioTEDU Jazz FLAC",
+   "url": "https://stream.radiotedu.com/cazz-flac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "jazz",
+   "ok": true
+  },
+  {
+   "name": "Power Dance",
+   "url": "https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Powertürk Dans",
+   "url": "https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Dinamo.FM Deep",
+   "url": "http://channels.dinamo.fm/deep-mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Dinamo.FM Sleep",
+   "url": "http://channels.dinamo.fm/sleep-mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Dinamo.FM Discotheque",
+   "url": "http://channels.dinamo.fm/discotheque-mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Dinamo.FM Caffe",
+   "url": "http://channels.dinamo.fm/caffe-mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Dinamo.FM Legacy",
+   "url": "http://channels.dinamo.fm/legacy-mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Dinamo.FM Fluent",
+   "url": "http://channels.dinamo.fm/fluent-mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Dinamo.FM Smog",
+   "url": "http://channels.dinamo.fm/smog-mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Dinamo.FM Locodyno",
+   "url": "http://channels.dinamo.fm/locodyno-mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Danceland",
+   "url": "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Danceland Anthems",
+   "url": "https://likeradiostream.com/dancelandanthems",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Discoland",
+   "url": "https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Houseland",
+   "url": "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Loops Radio House",
+   "url": "https://loopsdeep.ozelip.com/7806/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Loops Radio Techno",
+   "url": "https://ip179.ozelip.com/7688//asistan/stream/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Loops Radio Progressive",
+   "url": "https://progressive.ozelip.com/7670/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Loops Radio Elektronica",
+   "url": "https://ssl22.radyotelekom.com/8232/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Pash Pash Radio",
+   "url": "https://hits.pashpashradio.com:7000/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Playdanceradio",
+   "url": "https://radyo1.radyo-dinle.tc/playdanceradio/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Powertürk Akustik",
+   "url": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "Power XL",
+   "url": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "dans",
+   "ok": true
+  },
+  {
+   "name": "PowerTürk Rap",
+   "url": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rap",
+   "ok": true
+  },
+  {
+   "name": "Number 1 Türk Rap",
+   "url": "https://dijimedya.radyotvonline.net/turkrap",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rap",
+   "ok": true
+  },
+  {
+   "name": "Best Rap",
+   "url": "https://wowza3.radyotvonline.com/best/bestgicir.stream/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rap",
+   "ok": true
+  },
+  {
+   "name": "Rap Home",
+   "url": "http://37.247.98.8/stream/606/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "rap",
+   "ok": true
+  },
+  {
+   "name": "TRT Türkü",
+   "url": "https://rd-trtturku.medya.trt.com.tr/master_128.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "turkish",
+   "ok": true
+  },
+  {
+   "name": "Türkülerle Türkiye",
+   "url": "http://37.247.98.8/stream/22/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "turkish",
+   "ok": true
+  },
+  {
+   "name": "Türkü Radyo",
+   "url": "http://radyo.turkuradyo.net:4591/turkuradyo",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "turkish",
+   "ok": true
+  },
+  {
+   "name": "Radyo Türkü",
+   "url": "https://yayin.radyomadyo.com:8008/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "turkish",
+   "ok": true
+  },
+  {
+   "name": "90'lar Türkçe Pop",
+   "url": "https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "90'lar Radyo Home",
+   "url": "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Radyoland Doksanlar",
+   "url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Altın Şarkılar",
+   "url": "https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Efsane 4'lü",
+   "url": "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Retro Türk",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Pop 90",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Radyo 90",
+   "url": "https://live.radyo.in/9054/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Turkuvaz Nostalji",
+   "url": "https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Turkuvaz Efsane",
+   "url": "https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Vizyon Nostalji",
+   "url": "https://stream.netradyom.com/radio/7090/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Maziden Bir Demet",
+   "url": "http://37.247.98.8/stream/25/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Efsane Home",
+   "url": "http://37.247.98.8/stream/24/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Radyo 45'lik Nostalji",
+   "url": "https://stream.radyo45lik.com:4545/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Turkuvaz Romantik",
+   "url": "https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "Radyo Dejavu",
+   "url": "https://radyodejavu.80.yayin.com.tr",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "retro",
+   "ok": true
+  },
+  {
+   "name": "RadioTEDU Lo-Fi",
+   "url": "https://stream.radiotedu.com/lofi",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "chill",
+   "ok": true
+  },
+  {
+   "name": "RadioTEDU Energize",
+   "url": "https://stream.radiotedu.com/energize",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "chill",
+   "ok": true
+  },
+  {
+   "name": "Easyland",
+   "url": "https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "chill",
+   "ok": true
+  },
+  {
+   "name": "Relax Home",
+   "url": "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "chill",
+   "ok": true
+  },
+  {
+   "name": "Akustikland",
+   "url": "https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "chill",
+   "ok": true
+  },
+  {
+   "name": "Kıyı Gece",
+   "url": "https://gece.radioca.st/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "chill",
+   "ok": true
+  },
+  {
+   "name": "Dünyadan Sesler",
+   "url": "https://stream.dodo.radio/dunyadansesler",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "chill",
+   "ok": true
+  },
+  {
+   "name": "Turkuvaz Musiki",
+   "url": "https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "sanat",
+   "ok": true
+  },
+  {
+   "name": "Kiss Musiki",
+   "url": "https://dijimedya.radyotvonline.net/radyomusiki",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "sanat",
+   "ok": true
+  },
+  {
+   "name": "Radyo Vokal",
+   "url": "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "sanat",
+   "ok": true
+  },
+  {
+   "name": "Karadeniz FM",
+   "url": "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Karadeniz Türk",
+   "url": "https://furuncu.kesintisizyayin.com:8042/;",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Hamsi FM",
+   "url": "http://yayin.liderhost.net:8028/;",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Kaçkar FM",
+   "url": "https://ssl120.radyotelekom.com.tr/8678/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Rize Türk",
+   "url": "https://furuncu.kesintisizyayin.com:8044/;",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Karadeniz",
+   "url": "https://radyomar.80.yayin.com.tr/;",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo 2000 İstanbul",
+   "url": "https://edge.taksimbilisim.com/radyo2000/bant1/icecast.audio",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Trafik İstanbul",
+   "url": "http://37.247.100.118/stream/157/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radio 44 Malatya",
+   "url": "https://radyo44.80.yayin.com.tr/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Seymen",
+   "url": "https://yayin.radyoseymen.com.tr:1070/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Adana FM",
+   "url": "https://host.onlineradyotv.net:2020/stream/adanafm",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Kent FM",
+   "url": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Kayseri Gözde FM",
+   "url": "https://sslyayin.radyoyayini.com:7067/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Tarsus FM",
+   "url": "https://tarsusfm.80.yayin.com.tr/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Erzincan Cem Radyo",
+   "url": "https://erzincan.80.yayin.com.tr/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Erzincan Nostalji Radyo",
+   "url": "https://erzincannostalji.ozelip.com/8238/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo 35",
+   "url": "https://yayin.turkhosted.com/6012/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Banko",
+   "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Yaren",
+   "url": "https://sslyayin.radyoyayini.com:7097/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Yaren FM",
+   "url": "https://yarenfmn.80.yayin.com.tr/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Kent",
+   "url": "https://kentfm955.ozelip.com/9306/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo 37",
+   "url": "https://radyo.yayindakiler.com:3192/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Tempo FM",
+   "url": "https://live.radyo.in/8062/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Mars",
+   "url": "https://yayin.radyomadyo.com:9400/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Mezopotamya",
+   "url": "https://anadolu.liderhost.com.tr/9404/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Dede",
+   "url": "https://live.sinirsizhost.com.tr/8080/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Espiye FM",
+   "url": "https://anadolu.liderhost.com.tr/9028/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Bi̇tlİs Eren",
+   "url": "https://sslyayin.netyayin.net/1313/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Bitlis FM",
+   "url": "https://ssl22.radyotelekom.com:8172/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Muş FM",
+   "url": "https://sslyayin.netyayin.net/3442/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Zergan",
+   "url": "https://sslyayin.netyayin.net/radyozergan/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Karakoçan",
+   "url": "https://radyokarakocan.ozelip.com/8006/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Doğubayazıt",
+   "url": "https://radyo1.radyo-dinle.tc/8156/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Munzur",
+   "url": "http://yayin1.yayindakiler.com:3002/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Sarıkamış",
+   "url": "https://live.radyositesihazir.com:8004/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Şiran",
+   "url": "https://live.radyositesihazir.com/8078/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Gümüşhane FM",
+   "url": "https://anadolu.liderhost.com.tr:10921/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Yalova",
+   "url": "https://studio25.radiolize.com/radio/8200/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Bodrum FM",
+   "url": "https://live.bodrumfm.org/stream.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Mega Radyo İskenderun",
+   "url": "https://megaradyoiskenderun.ozelip.com/8024/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Gökçeada",
+   "url": "https://radyo.yayin.com.tr:6179/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Tulu",
+   "url": "http://yayin2.canliyayin.org:8248/",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Nida",
+   "url": "https://anadolu.liderhost.com.tr/8106/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "MK Radyo",
+   "url": "https://live.sinirsizhost.com.tr/8028/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Tempo Radyo Hatay",
+   "url": "https://sslyayin.netyayin.net/tempo/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Renk FM Hatay",
+   "url": "https://radyo.yayindakiler.com:3016/renk",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Mavi Radyo Elazığ",
+   "url": "https://yayin.turkhosted.com/6066/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Çağrı FM Diyarbakır",
+   "url": "https://anadolu.liderhost.com.tr/8002/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Dadaş FM Erzurum",
+   "url": "https://sslyayin.netyayin.net:8084/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "imaj FM Erzurum",
+   "url": "https://sslyayin.netyayin.net/imajfm/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Yön Radyo",
+   "url": "https://stream.radyolarburada.com:8020/yonradyo",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Sivas FM",
+   "url": "https://yayin2.canliyayin.org:10960/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo 13 FM",
+   "url": "https://radyo.yayindakiler.com:3050/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Maksat",
+   "url": "https://live.sinirsizhost.com.tr/8038/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Dingil",
+   "url": "https://live.sinirsizhost.com.tr/8056/;",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "favicon": "https://r.resimlink.com/CfF49Nv.jpeg",
+   "uuid": "8fa300ca-d563-4a5b-88e5-9caccecf43c1",
+   "ok": true
+  },
+  {
+   "name": "Durak Türk Radyo",
+   "url": "https://live.sinirsizhost.com.tr/8046/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Beyaz TV",
+   "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Halk TV",
+   "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "TRT FM",
+   "url": "https://trt.radyotvonline.net/trtfm",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "TRT Radyo 1",
+   "url": "https://trt.radyotvonline.net/trt1",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "TRT Antalya",
+   "url": "https://radio-trtantalya.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "TRT Çukurova",
+   "url": "https://radio-trtcukurova.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "TRT Trabzon",
+   "url": "https://radio-trttrabzon.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "TRT Erzurum",
+   "url": "https://radio-trterzurum.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "TRT Diyarbakır",
+   "url": "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "TRT Radyo Kurdî",
+   "url": "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "TRT Memleketim FM",
+   "url": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Ankara Üniversitesi Radyo İlef",
+   "url": "https://radyo.ilef.net/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo ODTÜ",
+   "url": "https://stream3.radyoodtu.com.tr:8000/easy",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "OMÜ Radyo",
+   "url": "https://omuradyo.ozelip.com/8042/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Bilkent",
+   "url": "https://stream.netradyom.com/listen/radyobilkent/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "RadioTEDU",
+   "url": "https://stream.radiotedu.com/radio",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "ST Endüstri Radyo",
+   "url": "https://endustriradyo.radyotvonline.net/endustriradyo",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Aura",
+   "url": "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Coastiva Radio",
+   "url": "https://radio.coastiva.travel/listen/coastiva_radio/radio.mp3",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Kurd1 FM",
+   "url": "https://listen.radioking.com/radio/119251/stream/158701",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Azadi FM",
+   "url": "https://amed.ozelip.com/8040/;",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Mori",
+   "url": "https://amed.ozelip.com/8040/stream",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  },
+  {
+   "name": "Radyo Maranata",
+   "url": "http://medya.radyomaranata.com:8005/live",
+   "country": "Türkiye",
+   "countryCode": "TR",
+   "tags": "yerel",
+   "ok": true
+  }
+ ],
+ "replacements": {
+  "https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8": "https://edge1.radyotvonline.net/shoutcast/play/radyogol",
+  "https://live.sinirsizhost.com.tr/8056/": "https://live.sinirsizhost.com.tr/8056/;"
+ }
+}
