@@ -1,0 +1,39 @@
+name: Küratörlü radyo listesini denetle
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # her gün 03:17 UTC (06:17 TSİ)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-stations
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Yayınları denetle ve onar
+        run: python tools/curated/check_stations.py
+
+      - name: Değişiklikleri kaydet
+        run: |
+          git config user.name "radiolog-bot"
+          git config user.email "radiolog-bot@users.noreply.github.com"
+          git add tools/curated/stations.json tools/curated/state.json docs/curated.json
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok"
+          else
+            git commit -m "Küratörlü liste: günlük denetim"
+            git push
+          fi
