@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-20T11:38:51Z",
+ "updated": "2026-11-21T11:00:38Z",
  "stations": [
   {
    "name": "Süper FM",
@@ -1298,7 +1298,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "dans",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Powertürk Akustik",
@@ -1810,7 +1810,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": true
+   "ok": false
   },
   {
    "name": "Bitlis FM",
