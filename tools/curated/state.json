@@ -1,128 +1,100 @@
 {
   "fails": {
     "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://dijimedya.radyotvonline.net/numberone": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://ssldyg2.radyotvonline.net/live/bestofyabanci.stream/chunklist.m3u8": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://radyo.yayin.com.tr:6321/": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://yayin.moralfm.com.tr:8000/moralfm": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://anadolu.liderhost.com.tr:10929/": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://radyo.duhnet.tv/ak_dtvh_slowturk": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://radyo.yayin.com.tr:4078/mp3": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "http://yayin.liderhost.net:8028/;": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://ssl120.radyotelekom.com.tr/8678/stream": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://edge.taksimbilisim.com/radyo2000/bant1/icecast.audio": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://anadolu.liderhost.com.tr:10921/": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://megaradyoiskenderun.ozelip.com/8024/stream": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://radyo.ilef.net/stream": {
-      "days": 6,
-      "last": "2026-11-23"
+      "days": 7,
+      "last": "2026-11-24"
     },
     "https://radyo1.radyo-dinle.tc/playdanceradio/stream": {
-      "days": 4,
-      "last": "2026-11-23"
+      "days": 5,
+      "last": "2026-11-24"
     },
     "https://sslyayin.netyayin.net/1313/stream": {
-      "days": 4,
-      "last": "2026-11-23"
-    },
-    "https://stream.radiotedu.com/rock": {
-      "days": 1,
-      "last": "2026-11-23"
+      "days": 5,
+      "last": "2026-11-24"
     },
     "https://stream.radiotedu.com/classic": {
-      "days": 1,
-      "last": "2026-11-23"
+      "days": 2,
+      "last": "2026-11-24"
     },
-    "https://stream.radiotedu.com/classic-flac": {
+    "https://radyomar.80.yayin.com.tr/;": {
       "days": 1,
-      "last": "2026-11-23"
-    },
-    "https://stream.radiotedu.com/cazz": {
-      "days": 1,
-      "last": "2026-11-23"
-    },
-    "https://stream.radiotedu.com/cazz-flac": {
-      "days": 1,
-      "last": "2026-11-23"
-    },
-    "https://stream.radiotedu.com/lofi": {
-      "days": 1,
-      "last": "2026-11-23"
-    },
-    "https://stream.radiotedu.com/energize": {
-      "days": 1,
-      "last": "2026-11-23"
-    },
-    "https://sslyayin.netyayin.net/radyozergan/": {
-      "days": 1,
-      "last": "2026-11-23"
-    },
-    "https://stream.radiotedu.com/radio": {
-      "days": 1,
-      "last": "2026-11-23"
+      "last": "2026-11-24"
     }
   },
   "replacements": {

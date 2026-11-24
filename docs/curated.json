@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-23T12:36:46Z",
+ "updated": "2026-11-24T13:42:16Z",
  "stations": [
   {
    "name": "Süper FM",
@@ -818,7 +818,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "klasik",
-   "ok": true
+   "ok": false
   },
   {
    "name": "RadioTEDU Classic FLAC",
