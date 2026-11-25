@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-24T13:42:16Z",
+ "updated": "2026-11-25T12:52:46Z",
  "stations": [
   {
    "name": "Süper FM",
@@ -818,7 +818,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "klasik",
-   "ok": false
+   "ok": true
   },
   {
    "name": "RadioTEDU Classic FLAC",
@@ -1810,7 +1810,7 @@
    "country": "Türkiye",
    "countryCode": "TR",
    "tags": "yerel",
-   "ok": false
+   "ok": true
   },
   {
    "name": "Bitlis FM",
